@@ -29,8 +29,7 @@ Além que é um sistema que foi criado na época que eu estava estudando na Esco
 2. Clone o repositório:
    ```bash
    git clone https://github.com/tiagonunes1337/Cadastro-Escolar.git
-  ```
-```
+  bash```
 3. Abra o projeto no seu NetBeans ou IntelliJ.
 
 Execute a classe Teste.java.
